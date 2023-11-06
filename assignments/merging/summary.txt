@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+From the workshop conducted by Danni, we know that:c
+=======
+From the workshop conducted by Danni, we know that:a
+>>>>>>> feature
+In summary:
+Merging in Git is the process of combining changes from one branch into another branch. This is a crucial aspect of Git's version control system and allows you to incorporate new features, bug fixes, or other changes into the main branch (e.g., master or main). Here are the key aspects of merging in Git
